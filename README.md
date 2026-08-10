@@ -15,6 +15,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅ 03. Check if Array is Sorted
 - ✅️ 04. Remove Duplicates from Sorted Array
 - ✅️ 05. Left Rotate Array by One Place
+- ✅️ 06. Left Rotate Array by D Places
 
 ---
 
@@ -45,6 +46,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 3 | Check if Array is Sorted | ✅ |
 | Day 4 | Removing duplicates in Array | ✅️ |
 | Day 5 | Left rotation in Array | ✅️ |
+| Day 6 | Left Rotate Array by D Places | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
