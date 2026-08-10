@@ -14,13 +14,13 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅ 02. Second Largest Element
 - ✅ 03. Check if Array is Sorted
 - ✅️ 04. Remove Duplicates from Sorted Array
-- ⏳ 05. Left Rotate Array by One Place
+- ✅️ 05. Left Rotate Array by One Place
 
 ---
 
 # 📊 Progress
 
-- ✅ Problems Solved: **4**
+- ✅ Problems Solved: **5**
 - 💻 Language: **Java**
 - 📚 Learning Path: **Striver A2Z DSA Sheet**
 
