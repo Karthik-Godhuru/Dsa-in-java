@@ -43,7 +43,8 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 1 | Build Array From Permutation | ✅ |
 | Day 2 | Second Largest Element | ✅ |
 | Day 3 | Check if Array is Sorted | ✅ |
-
+| Day 4 | Removing duplicates in Array | ✅️ |
+| Day 5 | Left rotation in Array | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
