@@ -16,7 +16,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅️ 04. Remove Duplicates from Sorted Array
 - ✅️ 05. Left Rotate Array by One Place
 - ✅️ 06. Left Rotate Array by D Places
-
+- ✅️ 07.moves Zeros
 ---
 
 # 📊 Progress
@@ -47,6 +47,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 4 | Removing duplicates in Array | ✅️ |
 | Day 5 | Left rotation in Array | ✅️ |
 | Day 6 | Left Rotate Array by D Places | ✅️ |
+| Day 7 | moves zeros | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
