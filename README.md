@@ -21,7 +21,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 
 # 📊 Progress
 
-- ✅ Problems Solved: **5**
+- ✅ Problems Solved: **7**
 - 💻 Language: **Java**
 - 📚 Learning Path: **Striver A2Z DSA Sheet**
 
