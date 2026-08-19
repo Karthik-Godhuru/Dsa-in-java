@@ -17,11 +17,12 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅️ 05. Left Rotate Array by One Place
 - ✅️ 06. Left Rotate Array by D Places
 - ✅️ 07.moves Zeros
+- ✅️ 08.linear search 
 ---
 
 # 📊 Progress
 
-- ✅ Problems Solved: **7**
+- ✅ Problems Solved: **8**
 - 💻 Language: **Java**
 - 📚 Learning Path: **Striver A2Z DSA Sheet**
 
@@ -48,6 +49,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 5 | Left rotation in Array | ✅️ |
 | Day 6 | Left Rotate Array by D Places | ✅️ |
 | Day 7 | moves zeros | ✅️ |
+| Day 8 | Linear search | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
