@@ -18,11 +18,12 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅️ 06. Left Rotate Array by D Places
 - ✅️ 07.moves Zeros
 - ✅️ 08.linear search 
+- ✅️ 09.union of two sorted arrays
 ---
 
 # 📊 Progress
 
-- ✅ Problems Solved: **8**
+- ✅ Problems Solved: **9**
 - 💻 Language: **Java**
 - 📚 Learning Path: **Striver A2Z DSA Sheet**
 
@@ -50,6 +51,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 6 | Left Rotate Array by D Places | ✅️ |
 | Day 7 | moves zeros | ✅️ |
 | Day 8 | Linear search | ✅️ |
+| Day 9 | union of two sorted arrays | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
