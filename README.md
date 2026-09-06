@@ -20,7 +20,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅️ 08.linear search 
 - ✅️ 09.union of two sorted arrays
 - ✅️ 10.Intersection of Two Sorted Arrays
-_ ✅️ 11.missing num in arrays 
+- ✅️ 11.missing num in arrays 
 ---
 
 # 📊 Progress
