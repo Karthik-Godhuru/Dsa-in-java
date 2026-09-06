@@ -20,11 +20,12 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅️ 08.linear search 
 - ✅️ 09.union of two sorted arrays
 - ✅️ 10.Intersection of Two Sorted Arrays
+_ ✅️ 11.missing num in arrays 
 ---
 
 # 📊 Progress
 
-- ✅ Problems Solved: **10**
+- ✅ Problems Solved: **11**
 - 💻 Language: **Java**
 - 📚 Learning Path: **Striver A2Z DSA Sheet**
 
@@ -54,6 +55,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 8 | Linear search | ✅️ |
 | Day 9 | union of two sorted arrays | ✅️ |
 | Day 10 | Intersection of Two Sorted Arrays | ✅️ |
+| Day 11 | Missing num in Array | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
