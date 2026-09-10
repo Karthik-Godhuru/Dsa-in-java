@@ -21,11 +21,12 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅️ 09.union of two sorted arrays
 - ✅️ 10.Intersection of Two Sorted Arrays
 - ✅️ 11.missing num in arrays 
+- ✅️ 12.Add maximum consecutive ones solution
 ---
 
 # 📊 Progress
 
-- ✅ Problems Solved: **11**
+- ✅ Problems Solved: **12**
 - 💻 Language: **Java**
 - 📚 Learning Path: **Striver A2Z DSA Sheet**
 
@@ -56,6 +57,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 9 | union of two sorted arrays | ✅️ |
 | Day 10 | Intersection of Two Sorted Arrays | ✅️ |
 | Day 11 | Missing num in Array | ✅️ |
+| Day 12 | Add maximum consecutive ones solution | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
