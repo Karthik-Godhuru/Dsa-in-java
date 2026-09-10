@@ -1,4 +1,4 @@
-# DSA in Java 🚀
+⁷# DSA in Java 🚀
 
 Welcome to my Data Structures and Algorithms (DSA) journey using Java.
 
@@ -21,12 +21,13 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅️ 09.union of two sorted arrays
 - ✅️ 10.Intersection of Two Sorted Arrays
 - ✅️ 11.missing num in arrays 
-- ✅️ 12.Add maximum consecutive ones solution
+- ✅️ 12.Add maximum consecutive number
+- ✅️ 13.Single Number
 ---
 
 # 📊 Progress
 
-- ✅ Problems Solved: **12**
+- ✅ Problems Solved: **13**
 - 💻 Language: **Java**
 - 📚 Learning Path: **Striver A2Z DSA Sheet**
 
@@ -58,6 +59,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 10 | Intersection of Two Sorted Arrays | ✅️ |
 | Day 11 | Missing num in Array | ✅️ |
 | Day 12 | Add maximum consecutive ones solution | ✅️ |
+| Day 13 | Single Number | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
