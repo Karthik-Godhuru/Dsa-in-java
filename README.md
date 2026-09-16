@@ -23,11 +23,12 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅️ 11.missing num in arrays 
 - ✅️ 12.Add maximum consecutive number
 - ✅️ 13.Single Number
+- ✅️ 14.LongestSubarrayWithSumK.java
 ---
 
 # 📊 Progress
 
-- ✅ Problems Solved: **13**
+- ✅ Problems Solved: **14**
 - 💻 Language: **Java**
 - 📚 Learning Path: **Striver A2Z DSA Sheet**
 
@@ -60,6 +61,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 11 | Missing num in Array | ✅️ |
 | Day 12 | Add maximum consecutive ones solution | ✅️ |
 | Day 13 | Single Number | ✅️ |
+| Day 14 | LongestSubarrayWithSumK.java | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
