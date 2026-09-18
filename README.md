@@ -24,11 +24,12 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 - ✅️ 12.Add maximum consecutive number
 - ✅️ 13.Single Number
 - ✅️ 14.LongestSubarrayWithSumK.java
+- ✅️ 15.TwoSum.java
 ---
 
 # 📊 Progress
 
-- ✅ Problems Solved: **14**
+- ✅ Problems Solved: **15**
 - 💻 Language: **Java**
 - 📚 Learning Path: **Striver A2Z DSA Sheet**
 
@@ -62,6 +63,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet. Every proble
 | Day 12 | Add maximum consecutive ones solution | ✅️ |
 | Day 13 | Single Number | ✅️ |
 | Day 14 | LongestSubarrayWithSumK.java | ✅️ |
+| Day 15 | TwoSum.java | ✅️ |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
